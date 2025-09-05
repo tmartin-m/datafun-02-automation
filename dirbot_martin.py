@@ -76,7 +76,12 @@ def create_folders_for_range(start_year: int, end_year: int) -> None:
     # TODO: For each year, create a folder using ROOT_DIR / str(year)
     # TODO: Log a message each time a folder is created
     # TODO: Use .mkdir(exist_ok=True) so the program doesn't crash if the folder already exists
-
+    def create_year_folders(start_year, end_year, root_dir):
+        root_path = Path(root_dir)
+        for year in range(start_year, end_year +1):
+            year_path = root_path / str(year)
+            year_path.mkdir(exist_ok=True)
+            logger.info(f"Created folder: {year_path}")
     # Example starter structure:
     # for year in range(start_year, end_year + 1):
     #     year_path = ROOT_DIR / str(year)

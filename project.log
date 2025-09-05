@@ -92,3 +92,145 @@ Mean Satisfaction Score:    4.80
 2025-09-04 20:16:59.900 | INFO     | __main__:main:222 - # Completed execution of main()
 2025-09-04 20:16:59 | INFO | __main__:223 | #####################################
 2025-09-04 20:16:59.900 | INFO     | __main__:main:223 - #####################################
+2025-09-04 20:24:25 | INFO | utils_taylorm:46 | Logger loaded.
+2025-09-04 20:24:25 | INFO | __main__:36 | Logger loaded.
+2025-09-04 20:24:25.197 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-09-04 20:24:25 | INFO | __main__:199 | #####################################
+2025-09-04 20:24:25.197 | INFO     | __main__:main:199 - #####################################
+2025-09-04 20:24:25 | INFO | __main__:200 | # Starting execution of main()
+2025-09-04 20:24:25.197 | INFO     | __main__:main:200 - # Starting execution of main()
+2025-09-04 20:24:25 | INFO | __main__:201 | #####################################
+
+2025-09-04 20:24:25.198 | INFO     | __main__:main:201 - #####################################
+
+2025-09-04 20:24:25 | INFO | __main__:203 | Byline: 
+**********************************************************
+Martin Analytics — Project Header
+**********************************************************
+Author:                     Taylor Martin
+Motto:                      Trying our best, to make you the best
+Years Active:               5
+Main Office:                Moline, IL
+Number of Locations:        4
+Other Office Locations:     ['St Louis', 'Chicago', 'Des Moines', 'Milwaukee']
+Employees?:                 25
+Hiring?:                    False
+New Clients?:               True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+**********************************************************
+
+2025-09-04 20:24:25.198 | INFO     | __main__:main:203 - Byline: 
+**********************************************************
+Martin Analytics — Project Header
+**********************************************************
+Author:                     Taylor Martin
+Motto:                      Trying our best, to make you the best
+Years Active:               5
+Main Office:                Moline, IL
+Number of Locations:        4
+Other Office Locations:     ['St Louis', 'Chicago', 'Des Moines', 'Milwaukee']
+Employees?:                 25
+Hiring?:                    False
+New Clients?:               True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+**********************************************************
+
+2025-09-04 20:24:25 | INFO | __main__:72 | FUNCTION: create_folders_for_range()
+2025-09-04 20:24:25.198 | INFO     | __main__:create_folders_for_range:72 - FUNCTION: create_folders_for_range()
+2025-09-04 20:24:25 | INFO | __main__:73 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 20:24:25.198 | INFO     | __main__:create_folders_for_range:73 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 20:29:18 | INFO | utils_taylorm:46 | Logger loaded.
+2025-09-04 20:29:18 | INFO | __main__:36 | Logger loaded.
+2025-09-04 20:29:18.596 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-09-04 20:29:18 | INFO | __main__:201 | #####################################
+2025-09-04 20:29:18.596 | INFO     | __main__:main:201 - #####################################
+2025-09-04 20:29:18 | INFO | __main__:202 | # Starting execution of main()
+2025-09-04 20:29:18.597 | INFO     | __main__:main:202 - # Starting execution of main()
+2025-09-04 20:29:18 | INFO | __main__:203 | #####################################
+
+2025-09-04 20:29:18.597 | INFO     | __main__:main:203 - #####################################
+
+2025-09-04 20:29:18 | INFO | __main__:205 | Byline: 
+**********************************************************
+Martin Analytics — Project Header
+**********************************************************
+Author:                     Taylor Martin
+Motto:                      Trying our best, to make you the best
+Years Active:               5
+Main Office:                Moline, IL
+Number of Locations:        4
+Other Office Locations:     ['St Louis', 'Chicago', 'Des Moines', 'Milwaukee']
+Employees?:                 25
+Hiring?:                    False
+New Clients?:               True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+**********************************************************
+
+2025-09-04 20:29:18.597 | INFO     | __main__:main:205 - Byline: 
+**********************************************************
+Martin Analytics — Project Header
+**********************************************************
+Author:                     Taylor Martin
+Motto:                      Trying our best, to make you the best
+Years Active:               5
+Main Office:                Moline, IL
+Number of Locations:        4
+Other Office Locations:     ['St Louis', 'Chicago', 'Des Moines', 'Milwaukee']
+Employees?:                 25
+Hiring?:                    False
+New Clients?:               True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+**********************************************************
+
+2025-09-04 20:29:18 | INFO | __main__:72 | FUNCTION: create_folders_for_range()
+2025-09-04 20:29:18.597 | INFO     | __main__:create_folders_for_range:72 - FUNCTION: create_folders_for_range()
+2025-09-04 20:29:18 | INFO | __main__:73 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 20:29:18.598 | INFO     | __main__:create_folders_for_range:73 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 20:29:18 | INFO | __main__:109 | FUNCTION: create_folders_from_list()
+2025-09-04 20:29:18.598 | INFO     | __main__:create_folders_from_list:109 - FUNCTION: create_folders_from_list()
+2025-09-04 20:29:18 | INFO | __main__:110 | PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-04 20:29:18.598 | INFO     | __main__:create_folders_from_list:110 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-04 20:29:18 | INFO | __main__:138 | FUNCTION: create_prefixed_folders()
+2025-09-04 20:29:18.598 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:138 - FUNCTION: create_prefixed_folders()
+2025-09-04 20:29:18 | INFO | __main__:139 | PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-04 20:29:18.598 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:139 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-04 20:29:18 | INFO | __main__:161 | FUNCTION: create_folders_periodically()
+2025-09-04 20:29:18.598 | INFO     | __main__:create_folders_periodically:161 - FUNCTION: create_folders_periodically()
+2025-09-04 20:29:18 | INFO | __main__:162 | PARAMETER: duration_seconds = 5
+2025-09-04 20:29:18.599 | INFO     | __main__:create_folders_periodically:162 - PARAMETER: duration_seconds = 5
+2025-09-04 20:29:18 | INFO | __main__:189 | FUNCTION: create_standardized_folders()
+2025-09-04 20:29:18.599 | INFO     | __main__:create_standardized_folders:189 - FUNCTION: create_standardized_folders()
+2025-09-04 20:29:18 | INFO | __main__:190 | PARAMETERS: folder_list = ['North America', 'South America', 'Europe', 'Asia', 'Africa', 'Oceania', 'Middle East'], to_lowercase = True, remove_spaces = True
+2025-09-04 20:29:18.599 | INFO     | __main__:create_standardized_folders:190 - PARAMETERS: folder_list = ['North America', 'South America', 'Europe', 'Asia', 'Africa', 'Oceania', 'Middle East'], to_lowercase = True, remove_spaces = True
+2025-09-04 20:29:18 | INFO | __main__:226 | 
+#####################################
+2025-09-04 20:29:18.599 | INFO     | __main__:main:226 - 
+#####################################
+2025-09-04 20:29:18 | INFO | __main__:227 | # Completed execution of main()
+2025-09-04 20:29:18.599 | INFO     | __main__:main:227 - # Completed execution of main()
+2025-09-04 20:29:18 | INFO | __main__:228 | #####################################
+2025-09-04 20:29:18.600 | INFO     | __main__:main:228 - #####################################
