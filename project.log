@@ -9,3 +9,86 @@
 
 2025-09-04 20:02:11.446 | INFO     | __main__:main:200 - #####################################
 
+2025-09-04 20:16:59 | INFO | utils_taylorm:46 | Logger loaded.
+2025-09-04 20:16:59 | INFO | __main__:36 | Logger loaded.
+2025-09-04 20:16:59.896 | INFO     | __main__:<module>:36 - Logger loaded.
+2025-09-04 20:16:59 | INFO | __main__:196 | #####################################
+2025-09-04 20:16:59.897 | INFO     | __main__:main:196 - #####################################
+2025-09-04 20:16:59 | INFO | __main__:197 | # Starting execution of main()
+2025-09-04 20:16:59.897 | INFO     | __main__:main:197 - # Starting execution of main()
+2025-09-04 20:16:59 | INFO | __main__:198 | #####################################
+
+2025-09-04 20:16:59.897 | INFO     | __main__:main:198 - #####################################
+
+2025-09-04 20:16:59 | INFO | __main__:200 | Byline: 
+**********************************************************
+Martin Analytics — Project Header
+**********************************************************
+Author:                     Taylor Martin
+Motto:                      Trying our best, to make you the best
+Years Active:               5
+Main Office:                Moline, IL
+Number of Locations:        4
+Other Office Locations:     ['St Louis', 'Chicago', 'Des Moines', 'Milwaukee']
+Employees?:                 25
+Hiring?:                    False
+New Clients?:               True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+**********************************************************
+
+2025-09-04 20:16:59.897 | INFO     | __main__:main:200 - Byline: 
+**********************************************************
+Martin Analytics — Project Header
+**********************************************************
+Author:                     Taylor Martin
+Motto:                      Trying our best, to make you the best
+Years Active:               5
+Main Office:                Moline, IL
+Number of Locations:        4
+Other Office Locations:     ['St Louis', 'Chicago', 'Des Moines', 'Milwaukee']
+Employees?:                 25
+Hiring?:                    False
+New Clients?:               True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+**********************************************************
+
+2025-09-04 20:16:59 | INFO | __main__:72 | FUNCTION: create_folders_for_range()
+2025-09-04 20:16:59.898 | INFO     | __main__:create_folders_for_range:72 - FUNCTION: create_folders_for_range()
+2025-09-04 20:16:59 | INFO | __main__:73 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 20:16:59.898 | INFO     | __main__:create_folders_for_range:73 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-04 20:16:59 | INFO | __main__:104 | FUNCTION: create_folders_from_list()
+2025-09-04 20:16:59.898 | INFO     | __main__:create_folders_from_list:104 - FUNCTION: create_folders_from_list()
+2025-09-04 20:16:59 | INFO | __main__:105 | PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-04 20:16:59.898 | INFO     | __main__:create_folders_from_list:105 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-04 20:16:59 | INFO | __main__:133 | FUNCTION: create_prefixed_folders()
+2025-09-04 20:16:59.899 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:133 - FUNCTION: create_prefixed_folders()
+2025-09-04 20:16:59 | INFO | __main__:134 | PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-04 20:16:59.899 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:134 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-04 20:16:59 | INFO | __main__:156 | FUNCTION: create_folders_periodically()
+2025-09-04 20:16:59.899 | INFO     | __main__:create_folders_periodically:156 - FUNCTION: create_folders_periodically()
+2025-09-04 20:16:59 | INFO | __main__:157 | PARAMETER: duration_seconds = 5
+2025-09-04 20:16:59.899 | INFO     | __main__:create_folders_periodically:157 - PARAMETER: duration_seconds = 5
+2025-09-04 20:16:59 | INFO | __main__:184 | FUNCTION: create_standardized_folders()
+2025-09-04 20:16:59.899 | INFO     | __main__:create_standardized_folders:184 - FUNCTION: create_standardized_folders()
+2025-09-04 20:16:59 | INFO | __main__:185 | PARAMETERS: folder_list = ['North America', 'South America', 'Europe', 'Asia', 'Africa', 'Oceania', 'Middle East'], to_lowercase = True, remove_spaces = True
+2025-09-04 20:16:59.900 | INFO     | __main__:create_standardized_folders:185 - PARAMETERS: folder_list = ['North America', 'South America', 'Europe', 'Asia', 'Africa', 'Oceania', 'Middle East'], to_lowercase = True, remove_spaces = True
+2025-09-04 20:16:59 | INFO | __main__:221 | 
+#####################################
+2025-09-04 20:16:59.900 | INFO     | __main__:main:221 - 
+#####################################
+2025-09-04 20:16:59 | INFO | __main__:222 | # Completed execution of main()
+2025-09-04 20:16:59.900 | INFO     | __main__:main:222 - # Completed execution of main()
+2025-09-04 20:16:59 | INFO | __main__:223 | #####################################
+2025-09-04 20:16:59.900 | INFO     | __main__:main:223 - #####################################

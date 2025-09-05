@@ -8,7 +8,6 @@ Hint: See the Textbook, Skill Drills, and GUIDES for code snippets to help compl
 
 Author: Taylor Martin
 
-TODO: Change the module name in this opening docstring to use your name instead of case. 
 """
 
 #####################################
@@ -26,7 +25,6 @@ import loguru
 sys.path.append(str(pathlib.Path(__file__).resolve().parent))
 
 # Import local modules
-# TODO: Import your module in the line below instead
 import utils_taylorm
 
 #####################################
@@ -199,8 +197,7 @@ def main() -> None:
     logger.info("# Starting execution of main()")
     logger.info("#####################################\n")
 
-    # TODO: Change this to use your module and your get_byline() function instead
-    logger.info(f"Byline: {utils_case.get_byline()}")
+    logger.info(f"Byline: {utils_taylorm.get_byline()}")
 
     # Call function 1 to create folders for a range (e.g. years)
     create_folders_for_range(start_year=2020, end_year=2023)
