@@ -27,6 +27,9 @@ sys.path.append(str(pathlib.Path(__file__).resolve().parent))
 # Import local modules
 import utils_taylorm
 
+# Import time module from the Standard Library at the top if needed
+import time
+
 #####################################
 # Configure Logger and Verify
 #####################################
@@ -72,15 +75,11 @@ def create_folders_for_range(start_year: int, end_year: int) -> None:
     logger.info("FUNCTION: create_folders_for_range()")
     logger.info(f"PARAMETERS: start_year = {start_year}, end_year = {end_year}")
 
-    # TODO: Loop through the years from start_year to end_year (inclusive)
-    # TODO: For each year, create a folder using ROOT_DIR / str(year)
-    # TODO: Log a message each time a folder is created
-    # TODO: Use .mkdir(exist_ok=True) so the program doesn't crash if the folder already exists
-    def create_year_folders(start_year, end_year, ROOT_DIR):
-        for year in range(start_year, end_year +1):
-            year_path = ROOT_DIR / str(year)
-            year_path.mkdir(exist_ok=True)
-            logger.info(f"Created folder: {year_path}")
+    for year in range(start_year, end_year +1):
+        year_path = ROOT_DIR / str(year)
+        year_path.mkdir(exist_ok=True)
+        logger.info(f"Created folder: {year_path}")
+   
     # Example starter structure:
     # for year in range(start_year, end_year + 1):
     #     year_path = ROOT_DIR / str(year)
@@ -97,7 +96,7 @@ def create_folders_for_range(start_year: int, end_year: int) -> None:
 # add options to force lowercase and remove spaces
 #####################################
 
-def create_folders_from_list(folder_list: list) -> None:
+def create_folders_from_list(folder_list: list, force_lowercase: bool = False, remove_spaces: bool = False) -> None:
     '''
     Create folders based on a list of folder names.
     
@@ -107,10 +106,12 @@ def create_folders_from_list(folder_list: list) -> None:
 
     logger.info("FUNCTION: create_folders_from_list()")
     logger.info(f"PARAMETER: folder_list = {folder_list}")
+    logger.info(f"OPTIONS: force_lowercase = {force_lowercase}, remove_spaces = {remove_spaces}")
 
-    # TODO: Loop through the list of folder names
-    # TODO: For each name, create a folder using ROOT_DIR / name
-    # TODO: Log a message each time a folder is created
+    for name in folder_list:
+        folder_path = ROOT_DIR / name
+        folder_path.mkdir(exist_ok=True)
+        logger.info(f"Created folder: {folder_path}")
 
     pass
 
@@ -160,7 +161,6 @@ def create_folders_periodically(duration_seconds: int) -> None:
     logger.info("FUNCTION: create_folders_periodically()")
     logger.info(f"PARAMETER: duration_seconds = {duration_seconds}")
     
-    # TODO: Import time module from the Standard Library at the top if needed
     # TODO: Use a counter or a list to control how many folders to create
     # TODO: Wait between folder creations using time.sleep()
     # TODO: Log each wait and creation
