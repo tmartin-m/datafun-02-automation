@@ -160,12 +160,18 @@ def create_folders_periodically(duration_seconds: int) -> None:
     
     folder_index = 1
     max_folders = 5
-    # TODO: Use a counter or a list to control how many folders to create
-    # TODO: Wait between folder creations using time.sleep()
-    # TODO: Log each wait and creation
-    
-    pass
 
+    while folder_index <= max_folders:
+        folder_name =f"periodic_folder_{folder_index}"
+        folder_path = ROOT_DIR / folder_name
+        folder_path.mkdir(exist_ok=True)
+        logger.info(f"Created folder: {folder_path}")
+
+        if folder_index < max_folders:
+            logger.info(f"Waiting {duration_seconds} seconds before creating the next folder...")
+            time.sleep(duration_seconds)
+
+        folder_index += 1
 
 #####################################
 # Define Function 5. For Item in List: 
