@@ -194,7 +194,19 @@ def create_standardized_folders(folder_list: list, to_lowercase: bool = False, r
     logger.info(f"PARAMETERS: folder_list = {folder_list}, to_lowercase = {to_lowercase}, remove_spaces = {remove_spaces}")
     logger.info(f"OPTIONS: to_lowercase = {to_lowercase}, remove_spaces = {remove_spaces}")
 
-    pass
+    
+    for original_name in folder_list:
+        name = original_name
+
+        if to_lowercase:
+            name = name.lower()
+        if remove_spaces:
+            name = name.replace(" ", "_")
+
+        folder_path = ROOT_DIR / name
+        folder_path.mkdir(exist_ok=True)
+        logger.info(f"Created folder: {folder_path} (original name: '{original_name}')")
+
   
 #####################################
 # Define a main() function for this module.
