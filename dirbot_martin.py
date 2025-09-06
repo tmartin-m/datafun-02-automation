@@ -112,10 +112,6 @@ def create_folders_from_list(folder_list: list, force_lowercase: bool = False, r
         folder_path = ROOT_DIR / name
         folder_path.mkdir(exist_ok=True)
         logger.info(f"Created folder: {folder_path}")
-
-    pass
-
-
   
 #####################################
 # Define Function 3. List Comprehension: 
@@ -138,11 +134,12 @@ def create_prefixed_folders_using_list_comprehension(folder_list: list, prefix: 
     logger.info("FUNCTION: create_prefixed_folders()")
     logger.info(f"PARAMETERS: folder_list = {folder_list}, prefix = {prefix}")
 
-    # TODO: Implement this function professionally and remove the temporary pass.
-    # TODO: Use a list comprehension to create the folder names.
-    pass
+    prefixed_names = [f"{prefix}{name}" for name in folder_list]
 
-  
+    for folder_name in prefixed_names:
+        folder_path = ROOT_DIR/folder_name
+        folder_path.mkdir(exist_ok=True)
+        logger.info(f"Created folder: {folder_path}")  
 
 #####################################
 # Define Function 4. While Loop: 
@@ -161,6 +158,8 @@ def create_folders_periodically(duration_seconds: int) -> None:
     logger.info("FUNCTION: create_folders_periodically()")
     logger.info(f"PARAMETER: duration_seconds = {duration_seconds}")
     
+    folder_index = 1
+    max_folders = 5
     # TODO: Use a counter or a list to control how many folders to create
     # TODO: Wait between folder creations using time.sleep()
     # TODO: Log each wait and creation
@@ -187,6 +186,7 @@ def create_standardized_folders(folder_list: list, to_lowercase: bool = False, r
 
     logger.info("FUNCTION: create_standardized_folders()")
     logger.info(f"PARAMETERS: folder_list = {folder_list}, to_lowercase = {to_lowercase}, remove_spaces = {remove_spaces}")
+    logger.info(f"OPTIONS: to_lowercase = {to_lowercase}, remove_spaces = {remove_spaces}")
 
     pass
   

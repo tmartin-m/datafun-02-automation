@@ -588,3 +588,395 @@ Mean Satisfaction Score:    4.80
 2025-09-05 18:29:22.519 | INFO     | __main__:main:226 - # Completed execution of main()
 2025-09-05 18:29:22 | INFO | __main__:227 | #####################################
 2025-09-05 18:29:22.520 | INFO     | __main__:main:227 - #####################################
+2025-09-05 18:45:34 | INFO | utils_taylorm:46 | Logger loaded.
+2025-09-05 18:45:34 | INFO | __main__:39 | Logger loaded.
+2025-09-05 18:45:34.924 | INFO     | __main__:<module>:39 - Logger loaded.
+2025-09-05 18:45:34 | INFO | __main__:207 | #####################################
+2025-09-05 18:45:34.924 | INFO     | __main__:main:207 - #####################################
+2025-09-05 18:45:34 | INFO | __main__:208 | # Starting execution of main()
+2025-09-05 18:45:34.925 | INFO     | __main__:main:208 - # Starting execution of main()
+2025-09-05 18:45:34 | INFO | __main__:209 | #####################################
+
+2025-09-05 18:45:34.925 | INFO     | __main__:main:209 - #####################################
+
+2025-09-05 18:45:34 | INFO | __main__:211 | Byline: 
+**********************************************************
+Martin Analytics — Project Header
+**********************************************************
+Author:                     Taylor Martin
+Motto:                      Trying our best, to make you the best
+Years Active:               5
+Main Office:                Moline, IL
+Number of Locations:        4
+Other Office Locations:     ['St Louis', 'Chicago', 'Des Moines', 'Milwaukee']
+Employees?:                 25
+Hiring?:                    False
+New Clients?:               True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+**********************************************************
+
+2025-09-05 18:45:34.926 | INFO     | __main__:main:211 - Byline: 
+**********************************************************
+Martin Analytics — Project Header
+**********************************************************
+Author:                     Taylor Martin
+Motto:                      Trying our best, to make you the best
+Years Active:               5
+Main Office:                Moline, IL
+Number of Locations:        4
+Other Office Locations:     ['St Louis', 'Chicago', 'Des Moines', 'Milwaukee']
+Employees?:                 25
+Hiring?:                    False
+New Clients?:               True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+**********************************************************
+
+2025-09-05 18:45:34 | INFO | __main__:75 | FUNCTION: create_folders_for_range()
+2025-09-05 18:45:34.927 | INFO     | __main__:create_folders_for_range:75 - FUNCTION: create_folders_for_range()
+2025-09-05 18:45:34 | INFO | __main__:76 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-05 18:45:34.927 | INFO     | __main__:create_folders_for_range:76 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-05 18:45:34 | INFO | __main__:81 | Created folder: C:\Users\tmmar\datafun-02-automation\2020
+2025-09-05 18:45:34.929 | INFO     | __main__:create_folders_for_range:81 - Created folder: C:\Users\tmmar\datafun-02-automation\2020
+2025-09-05 18:45:34 | INFO | __main__:81 | Created folder: C:\Users\tmmar\datafun-02-automation\2021
+2025-09-05 18:45:34.930 | INFO     | __main__:create_folders_for_range:81 - Created folder: C:\Users\tmmar\datafun-02-automation\2021
+2025-09-05 18:45:34 | INFO | __main__:81 | Created folder: C:\Users\tmmar\datafun-02-automation\2022
+2025-09-05 18:45:34.931 | INFO     | __main__:create_folders_for_range:81 - Created folder: C:\Users\tmmar\datafun-02-automation\2022
+2025-09-05 18:45:34 | INFO | __main__:81 | Created folder: C:\Users\tmmar\datafun-02-automation\2023
+2025-09-05 18:45:34.932 | INFO     | __main__:create_folders_for_range:81 - Created folder: C:\Users\tmmar\datafun-02-automation\2023
+2025-09-05 18:45:34 | INFO | __main__:107 | FUNCTION: create_folders_from_list()
+2025-09-05 18:45:34.933 | INFO     | __main__:create_folders_from_list:107 - FUNCTION: create_folders_from_list()
+2025-09-05 18:45:34 | INFO | __main__:108 | PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-05 18:45:34.934 | INFO     | __main__:create_folders_from_list:108 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-05 18:45:34 | INFO | __main__:109 | OPTIONS: force_lowercase = False, remove_spaces = False
+2025-09-05 18:45:34.935 | INFO     | __main__:create_folders_from_list:109 - OPTIONS: force_lowercase = False, remove_spaces = False
+2025-09-05 18:45:34 | INFO | __main__:114 | Created folder: C:\Users\tmmar\datafun-02-automation\data-csv
+2025-09-05 18:45:34.936 | INFO     | __main__:create_folders_from_list:114 - Created folder: C:\Users\tmmar\datafun-02-automation\data-csv
+2025-09-05 18:45:34 | INFO | __main__:114 | Created folder: C:\Users\tmmar\datafun-02-automation\data-excel
+2025-09-05 18:45:34.937 | INFO     | __main__:create_folders_from_list:114 - Created folder: C:\Users\tmmar\datafun-02-automation\data-excel
+2025-09-05 18:45:34 | INFO | __main__:114 | Created folder: C:\Users\tmmar\datafun-02-automation\data-json
+2025-09-05 18:45:34.938 | INFO     | __main__:create_folders_from_list:114 - Created folder: C:\Users\tmmar\datafun-02-automation\data-json
+2025-09-05 18:45:34 | INFO | __main__:138 | FUNCTION: create_prefixed_folders()
+2025-09-05 18:45:34.938 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:138 - FUNCTION: create_prefixed_folders()
+2025-09-05 18:45:34 | INFO | __main__:139 | PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-05 18:45:34.939 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:139 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-05 18:47:17 | INFO | utils_taylorm:46 | Logger loaded.
+2025-09-05 18:47:17 | INFO | __main__:39 | Logger loaded.
+2025-09-05 18:47:17.705 | INFO     | __main__:<module>:39 - Logger loaded.
+2025-09-05 18:47:17 | INFO | __main__:207 | #####################################
+2025-09-05 18:47:17.706 | INFO     | __main__:main:207 - #####################################
+2025-09-05 18:47:17 | INFO | __main__:208 | # Starting execution of main()
+2025-09-05 18:47:17.706 | INFO     | __main__:main:208 - # Starting execution of main()
+2025-09-05 18:47:17 | INFO | __main__:209 | #####################################
+
+2025-09-05 18:47:17.707 | INFO     | __main__:main:209 - #####################################
+
+2025-09-05 18:47:17 | INFO | __main__:211 | Byline: 
+**********************************************************
+Martin Analytics — Project Header
+**********************************************************
+Author:                     Taylor Martin
+Motto:                      Trying our best, to make you the best
+Years Active:               5
+Main Office:                Moline, IL
+Number of Locations:        4
+Other Office Locations:     ['St Louis', 'Chicago', 'Des Moines', 'Milwaukee']
+Employees?:                 25
+Hiring?:                    False
+New Clients?:               True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+**********************************************************
+
+2025-09-05 18:47:17.707 | INFO     | __main__:main:211 - Byline: 
+**********************************************************
+Martin Analytics — Project Header
+**********************************************************
+Author:                     Taylor Martin
+Motto:                      Trying our best, to make you the best
+Years Active:               5
+Main Office:                Moline, IL
+Number of Locations:        4
+Other Office Locations:     ['St Louis', 'Chicago', 'Des Moines', 'Milwaukee']
+Employees?:                 25
+Hiring?:                    False
+New Clients?:               True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+**********************************************************
+
+2025-09-05 18:47:17 | INFO | __main__:75 | FUNCTION: create_folders_for_range()
+2025-09-05 18:47:17.708 | INFO     | __main__:create_folders_for_range:75 - FUNCTION: create_folders_for_range()
+2025-09-05 18:47:17 | INFO | __main__:76 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-05 18:47:17.709 | INFO     | __main__:create_folders_for_range:76 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-05 18:47:17 | INFO | __main__:81 | Created folder: C:\Users\tmmar\datafun-02-automation\2020
+2025-09-05 18:47:17.712 | INFO     | __main__:create_folders_for_range:81 - Created folder: C:\Users\tmmar\datafun-02-automation\2020
+2025-09-05 18:47:17 | INFO | __main__:81 | Created folder: C:\Users\tmmar\datafun-02-automation\2021
+2025-09-05 18:47:17.713 | INFO     | __main__:create_folders_for_range:81 - Created folder: C:\Users\tmmar\datafun-02-automation\2021
+2025-09-05 18:47:17 | INFO | __main__:81 | Created folder: C:\Users\tmmar\datafun-02-automation\2022
+2025-09-05 18:47:17.714 | INFO     | __main__:create_folders_for_range:81 - Created folder: C:\Users\tmmar\datafun-02-automation\2022
+2025-09-05 18:47:17 | INFO | __main__:81 | Created folder: C:\Users\tmmar\datafun-02-automation\2023
+2025-09-05 18:47:17.715 | INFO     | __main__:create_folders_for_range:81 - Created folder: C:\Users\tmmar\datafun-02-automation\2023
+2025-09-05 18:47:17 | INFO | __main__:107 | FUNCTION: create_folders_from_list()
+2025-09-05 18:47:17.716 | INFO     | __main__:create_folders_from_list:107 - FUNCTION: create_folders_from_list()
+2025-09-05 18:47:17 | INFO | __main__:108 | PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-05 18:47:17.716 | INFO     | __main__:create_folders_from_list:108 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-05 18:47:17 | INFO | __main__:109 | OPTIONS: force_lowercase = False, remove_spaces = False
+2025-09-05 18:47:17.723 | INFO     | __main__:create_folders_from_list:109 - OPTIONS: force_lowercase = False, remove_spaces = False
+2025-09-05 18:47:17 | INFO | __main__:114 | Created folder: C:\Users\tmmar\datafun-02-automation\data-csv
+2025-09-05 18:47:17.724 | INFO     | __main__:create_folders_from_list:114 - Created folder: C:\Users\tmmar\datafun-02-automation\data-csv
+2025-09-05 18:47:17 | INFO | __main__:114 | Created folder: C:\Users\tmmar\datafun-02-automation\data-excel
+2025-09-05 18:47:17.725 | INFO     | __main__:create_folders_from_list:114 - Created folder: C:\Users\tmmar\datafun-02-automation\data-excel
+2025-09-05 18:47:17 | INFO | __main__:114 | Created folder: C:\Users\tmmar\datafun-02-automation\data-json
+2025-09-05 18:47:17.726 | INFO     | __main__:create_folders_from_list:114 - Created folder: C:\Users\tmmar\datafun-02-automation\data-json
+2025-09-05 18:47:17 | INFO | __main__:138 | FUNCTION: create_prefixed_folders()
+2025-09-05 18:47:17.727 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:138 - FUNCTION: create_prefixed_folders()
+2025-09-05 18:47:17 | INFO | __main__:139 | PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-05 18:47:17.728 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:139 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-05 18:47:17 | INFO | __main__:146 | Created folder: C:\Users\tmmar\datafun-02-automation\output-csv
+2025-09-05 18:47:17.731 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:146 - Created folder: C:\Users\tmmar\datafun-02-automation\output-csv
+2025-09-05 18:47:17 | INFO | __main__:146 | Created folder: C:\Users\tmmar\datafun-02-automation\output-excel
+2025-09-05 18:47:17.732 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:146 - Created folder: C:\Users\tmmar\datafun-02-automation\output-excel
+2025-09-05 18:47:17 | INFO | __main__:146 | Created folder: C:\Users\tmmar\datafun-02-automation\output-json
+2025-09-05 18:47:17.733 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:146 - Created folder: C:\Users\tmmar\datafun-02-automation\output-json
+2025-09-05 18:47:17 | INFO | __main__:168 | FUNCTION: create_folders_periodically()
+2025-09-05 18:47:17.734 | INFO     | __main__:create_folders_periodically:168 - FUNCTION: create_folders_periodically()
+2025-09-05 18:47:17 | INFO | __main__:169 | PARAMETER: duration_seconds = 5
+2025-09-05 18:47:17.734 | INFO     | __main__:create_folders_periodically:169 - PARAMETER: duration_seconds = 5
+2025-09-05 18:47:17 | INFO | __main__:195 | FUNCTION: create_standardized_folders()
+2025-09-05 18:47:17.735 | INFO     | __main__:create_standardized_folders:195 - FUNCTION: create_standardized_folders()
+2025-09-05 18:47:17 | INFO | __main__:196 | PARAMETERS: folder_list = ['North America', 'South America', 'Europe', 'Asia', 'Africa', 'Oceania', 'Middle East'], to_lowercase = True, remove_spaces = True
+2025-09-05 18:47:17.735 | INFO     | __main__:create_standardized_folders:196 - PARAMETERS: folder_list = ['North America', 'South America', 'Europe', 'Asia', 'Africa', 'Oceania', 'Middle East'], to_lowercase = True, remove_spaces = True
+2025-09-05 18:47:17 | INFO | __main__:232 | 
+#####################################
+2025-09-05 18:47:17.738 | INFO     | __main__:main:232 - 
+#####################################
+2025-09-05 18:47:17 | INFO | __main__:233 | # Completed execution of main()
+2025-09-05 18:47:17.739 | INFO     | __main__:main:233 - # Completed execution of main()
+2025-09-05 18:47:17 | INFO | __main__:234 | #####################################
+2025-09-05 18:47:17.740 | INFO     | __main__:main:234 - #####################################
+2025-09-05 19:12:16 | INFO | utils_taylorm:46 | Logger loaded.
+2025-09-05 19:12:16 | INFO | __main__:39 | Logger loaded.
+2025-09-05 19:12:16.126 | INFO     | __main__:<module>:39 - Logger loaded.
+2025-09-05 19:12:16 | INFO | __main__:200 | #####################################
+2025-09-05 19:12:16.126 | INFO     | __main__:main:200 - #####################################
+2025-09-05 19:12:16 | INFO | __main__:201 | # Starting execution of main()
+2025-09-05 19:12:16.127 | INFO     | __main__:main:201 - # Starting execution of main()
+2025-09-05 19:12:16 | INFO | __main__:202 | #####################################
+
+2025-09-05 19:12:16.127 | INFO     | __main__:main:202 - #####################################
+
+2025-09-05 19:12:16 | INFO | __main__:204 | Byline: 
+**********************************************************
+Martin Analytics — Project Header
+**********************************************************
+Author:                     Taylor Martin
+Motto:                      Trying our best, to make you the best
+Years Active:               5
+Main Office:                Moline, IL
+Number of Locations:        4
+Other Office Locations:     ['St Louis', 'Chicago', 'Des Moines', 'Milwaukee']
+Employees?:                 25
+Hiring?:                    False
+New Clients?:               True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+**********************************************************
+
+2025-09-05 19:12:16.127 | INFO     | __main__:main:204 - Byline: 
+**********************************************************
+Martin Analytics — Project Header
+**********************************************************
+Author:                     Taylor Martin
+Motto:                      Trying our best, to make you the best
+Years Active:               5
+Main Office:                Moline, IL
+Number of Locations:        4
+Other Office Locations:     ['St Louis', 'Chicago', 'Des Moines', 'Milwaukee']
+Employees?:                 25
+Hiring?:                    False
+New Clients?:               True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+**********************************************************
+
+2025-09-05 19:12:16 | INFO | __main__:75 | FUNCTION: create_folders_for_range()
+2025-09-05 19:12:16.128 | INFO     | __main__:create_folders_for_range:75 - FUNCTION: create_folders_for_range()
+2025-09-05 19:12:16 | INFO | __main__:76 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-05 19:12:16.132 | INFO     | __main__:create_folders_for_range:76 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-05 19:12:16 | INFO | __main__:81 | Created folder: C:\Users\tmmar\datafun-02-automation\2020
+2025-09-05 19:12:16.133 | INFO     | __main__:create_folders_for_range:81 - Created folder: C:\Users\tmmar\datafun-02-automation\2020
+2025-09-05 19:12:16 | INFO | __main__:81 | Created folder: C:\Users\tmmar\datafun-02-automation\2021
+2025-09-05 19:12:16.135 | INFO     | __main__:create_folders_for_range:81 - Created folder: C:\Users\tmmar\datafun-02-automation\2021
+2025-09-05 19:12:16 | INFO | __main__:81 | Created folder: C:\Users\tmmar\datafun-02-automation\2022
+2025-09-05 19:12:16.136 | INFO     | __main__:create_folders_for_range:81 - Created folder: C:\Users\tmmar\datafun-02-automation\2022
+2025-09-05 19:12:16 | INFO | __main__:81 | Created folder: C:\Users\tmmar\datafun-02-automation\2023
+2025-09-05 19:12:16.138 | INFO     | __main__:create_folders_for_range:81 - Created folder: C:\Users\tmmar\datafun-02-automation\2023
+2025-09-05 19:12:16 | INFO | __main__:107 | FUNCTION: create_folders_from_list()
+2025-09-05 19:12:16.138 | INFO     | __main__:create_folders_from_list:107 - FUNCTION: create_folders_from_list()
+2025-09-05 19:12:16 | INFO | __main__:108 | PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-05 19:12:16.139 | INFO     | __main__:create_folders_from_list:108 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-05 19:12:16 | INFO | __main__:109 | OPTIONS: force_lowercase = False, remove_spaces = False
+2025-09-05 19:12:16.139 | INFO     | __main__:create_folders_from_list:109 - OPTIONS: force_lowercase = False, remove_spaces = False
+2025-09-05 19:12:16 | INFO | __main__:114 | Created folder: C:\Users\tmmar\datafun-02-automation\data-csv
+2025-09-05 19:12:16.140 | INFO     | __main__:create_folders_from_list:114 - Created folder: C:\Users\tmmar\datafun-02-automation\data-csv
+2025-09-05 19:12:16 | INFO | __main__:114 | Created folder: C:\Users\tmmar\datafun-02-automation\data-excel
+2025-09-05 19:12:16.141 | INFO     | __main__:create_folders_from_list:114 - Created folder: C:\Users\tmmar\datafun-02-automation\data-excel
+2025-09-05 19:12:16 | INFO | __main__:114 | Created folder: C:\Users\tmmar\datafun-02-automation\data-json
+2025-09-05 19:12:16.141 | INFO     | __main__:create_folders_from_list:114 - Created folder: C:\Users\tmmar\datafun-02-automation\data-json
+2025-09-05 19:12:16 | INFO | __main__:134 | FUNCTION: create_prefixed_folders()
+2025-09-05 19:12:16.142 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:134 - FUNCTION: create_prefixed_folders()
+2025-09-05 19:12:16 | INFO | __main__:135 | PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-05 19:12:16.144 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-05 19:12:16 | INFO | __main__:142 | Created folder: C:\Users\tmmar\datafun-02-automation\output-csv
+2025-09-05 19:12:16.145 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:142 - Created folder: C:\Users\tmmar\datafun-02-automation\output-csv
+2025-09-05 19:12:16 | INFO | __main__:142 | Created folder: C:\Users\tmmar\datafun-02-automation\output-excel
+2025-09-05 19:12:16.146 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:142 - Created folder: C:\Users\tmmar\datafun-02-automation\output-excel
+2025-09-05 19:12:16 | INFO | __main__:142 | Created folder: C:\Users\tmmar\datafun-02-automation\output-json
+2025-09-05 19:12:16.147 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:142 - Created folder: C:\Users\tmmar\datafun-02-automation\output-json
+2025-09-05 19:12:16 | INFO | __main__:158 | FUNCTION: create_folders_periodically()
+2025-09-05 19:12:16.148 | INFO     | __main__:create_folders_periodically:158 - FUNCTION: create_folders_periodically()
+2025-09-05 19:12:16 | INFO | __main__:159 | PARAMETER: duration_seconds = 5
+2025-09-05 19:12:16.148 | INFO     | __main__:create_folders_periodically:159 - PARAMETER: duration_seconds = 5
+2025-09-05 19:12:16 | INFO | __main__:187 | FUNCTION: create_standardized_folders()
+2025-09-05 19:12:16.149 | INFO     | __main__:create_standardized_folders:187 - FUNCTION: create_standardized_folders()
+2025-09-05 19:12:16 | INFO | __main__:188 | PARAMETERS: folder_list = ['North America', 'South America', 'Europe', 'Asia', 'Africa', 'Oceania', 'Middle East'], to_lowercase = True, remove_spaces = True
+2025-09-05 19:12:16.149 | INFO     | __main__:create_standardized_folders:188 - PARAMETERS: folder_list = ['North America', 'South America', 'Europe', 'Asia', 'Africa', 'Oceania', 'Middle East'], to_lowercase = True, remove_spaces = True
+2025-09-05 19:13:15 | INFO | utils_taylorm:46 | Logger loaded.
+2025-09-05 19:13:15 | INFO | __main__:39 | Logger loaded.
+2025-09-05 19:13:15.731 | INFO     | __main__:<module>:39 - Logger loaded.
+2025-09-05 19:13:15 | INFO | __main__:200 | #####################################
+2025-09-05 19:13:15.731 | INFO     | __main__:main:200 - #####################################
+2025-09-05 19:13:15 | INFO | __main__:201 | # Starting execution of main()
+2025-09-05 19:13:15.732 | INFO     | __main__:main:201 - # Starting execution of main()
+2025-09-05 19:13:15 | INFO | __main__:202 | #####################################
+
+2025-09-05 19:13:15.732 | INFO     | __main__:main:202 - #####################################
+
+2025-09-05 19:13:15 | INFO | __main__:204 | Byline: 
+**********************************************************
+Martin Analytics — Project Header
+**********************************************************
+Author:                     Taylor Martin
+Motto:                      Trying our best, to make you the best
+Years Active:               5
+Main Office:                Moline, IL
+Number of Locations:        4
+Other Office Locations:     ['St Louis', 'Chicago', 'Des Moines', 'Milwaukee']
+Employees?:                 25
+Hiring?:                    False
+New Clients?:               True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+**********************************************************
+
+2025-09-05 19:13:15.733 | INFO     | __main__:main:204 - Byline: 
+**********************************************************
+Martin Analytics — Project Header
+**********************************************************
+Author:                     Taylor Martin
+Motto:                      Trying our best, to make you the best
+Years Active:               5
+Main Office:                Moline, IL
+Number of Locations:        4
+Other Office Locations:     ['St Louis', 'Chicago', 'Des Moines', 'Milwaukee']
+Employees?:                 25
+Hiring?:                    False
+New Clients?:               True
+Remote Workshops?:          True
+Services:                   ['Data Analysis', 'Machine Learning', 'Business Intelligence']
+Client Satisfaction Scores: [4.8, 4.6, 4.9, 5.0, 4.7]
+Minimum Satisfaction Score: 4.6
+Maximum Satisfaction Score: 5.0
+Mean Satisfaction Score:    4.80
+     Standard Deviation:    0.16
+**********************************************************
+
+2025-09-05 19:13:15 | INFO | __main__:75 | FUNCTION: create_folders_for_range()
+2025-09-05 19:13:15.733 | INFO     | __main__:create_folders_for_range:75 - FUNCTION: create_folders_for_range()
+2025-09-05 19:13:15 | INFO | __main__:76 | PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-05 19:13:15.734 | INFO     | __main__:create_folders_for_range:76 - PARAMETERS: start_year = 2020, end_year = 2023
+2025-09-05 19:13:15 | INFO | __main__:81 | Created folder: C:\Users\tmmar\datafun-02-automation\2020
+2025-09-05 19:13:15.735 | INFO     | __main__:create_folders_for_range:81 - Created folder: C:\Users\tmmar\datafun-02-automation\2020
+2025-09-05 19:13:15 | INFO | __main__:81 | Created folder: C:\Users\tmmar\datafun-02-automation\2021
+2025-09-05 19:13:15.737 | INFO     | __main__:create_folders_for_range:81 - Created folder: C:\Users\tmmar\datafun-02-automation\2021
+2025-09-05 19:13:15 | INFO | __main__:81 | Created folder: C:\Users\tmmar\datafun-02-automation\2022
+2025-09-05 19:13:15.738 | INFO     | __main__:create_folders_for_range:81 - Created folder: C:\Users\tmmar\datafun-02-automation\2022
+2025-09-05 19:13:15 | INFO | __main__:81 | Created folder: C:\Users\tmmar\datafun-02-automation\2023
+2025-09-05 19:13:15.739 | INFO     | __main__:create_folders_for_range:81 - Created folder: C:\Users\tmmar\datafun-02-automation\2023
+2025-09-05 19:13:15 | INFO | __main__:107 | FUNCTION: create_folders_from_list()
+2025-09-05 19:13:15.740 | INFO     | __main__:create_folders_from_list:107 - FUNCTION: create_folders_from_list()
+2025-09-05 19:13:15 | INFO | __main__:108 | PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-05 19:13:15.741 | INFO     | __main__:create_folders_from_list:108 - PARAMETER: folder_list = ['data-csv', 'data-excel', 'data-json']
+2025-09-05 19:13:15 | INFO | __main__:109 | OPTIONS: force_lowercase = False, remove_spaces = False
+2025-09-05 19:13:15.745 | INFO     | __main__:create_folders_from_list:109 - OPTIONS: force_lowercase = False, remove_spaces = False
+2025-09-05 19:13:15 | INFO | __main__:114 | Created folder: C:\Users\tmmar\datafun-02-automation\data-csv
+2025-09-05 19:13:15.747 | INFO     | __main__:create_folders_from_list:114 - Created folder: C:\Users\tmmar\datafun-02-automation\data-csv
+2025-09-05 19:13:15 | INFO | __main__:114 | Created folder: C:\Users\tmmar\datafun-02-automation\data-excel
+2025-09-05 19:13:15.749 | INFO     | __main__:create_folders_from_list:114 - Created folder: C:\Users\tmmar\datafun-02-automation\data-excel
+2025-09-05 19:13:15 | INFO | __main__:114 | Created folder: C:\Users\tmmar\datafun-02-automation\data-json
+2025-09-05 19:13:15.751 | INFO     | __main__:create_folders_from_list:114 - Created folder: C:\Users\tmmar\datafun-02-automation\data-json
+2025-09-05 19:13:15 | INFO | __main__:134 | FUNCTION: create_prefixed_folders()
+2025-09-05 19:13:15.752 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:134 - FUNCTION: create_prefixed_folders()
+2025-09-05 19:13:15 | INFO | __main__:135 | PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-05 19:13:15.753 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:135 - PARAMETERS: folder_list = ['csv', 'excel', 'json'], prefix = output-
+2025-09-05 19:13:15 | INFO | __main__:142 | Created folder: C:\Users\tmmar\datafun-02-automation\output-csv
+2025-09-05 19:13:15.754 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:142 - Created folder: C:\Users\tmmar\datafun-02-automation\output-csv
+2025-09-05 19:13:15 | INFO | __main__:142 | Created folder: C:\Users\tmmar\datafun-02-automation\output-excel
+2025-09-05 19:13:15.755 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:142 - Created folder: C:\Users\tmmar\datafun-02-automation\output-excel
+2025-09-05 19:13:15 | INFO | __main__:142 | Created folder: C:\Users\tmmar\datafun-02-automation\output-json
+2025-09-05 19:13:15.756 | INFO     | __main__:create_prefixed_folders_using_list_comprehension:142 - Created folder: C:\Users\tmmar\datafun-02-automation\output-json
+2025-09-05 19:13:15 | INFO | __main__:158 | FUNCTION: create_folders_periodically()
+2025-09-05 19:13:15.759 | INFO     | __main__:create_folders_periodically:158 - FUNCTION: create_folders_periodically()
+2025-09-05 19:13:15 | INFO | __main__:159 | PARAMETER: duration_seconds = 5
+2025-09-05 19:13:15.760 | INFO     | __main__:create_folders_periodically:159 - PARAMETER: duration_seconds = 5
+2025-09-05 19:13:15 | INFO | __main__:187 | FUNCTION: create_standardized_folders()
+2025-09-05 19:13:15.761 | INFO     | __main__:create_standardized_folders:187 - FUNCTION: create_standardized_folders()
+2025-09-05 19:13:15 | INFO | __main__:188 | PARAMETERS: folder_list = ['North America', 'South America', 'Europe', 'Asia', 'Africa', 'Oceania', 'Middle East'], to_lowercase = True, remove_spaces = True
+2025-09-05 19:13:15.761 | INFO     | __main__:create_standardized_folders:188 - PARAMETERS: folder_list = ['North America', 'South America', 'Europe', 'Asia', 'Africa', 'Oceania', 'Middle East'], to_lowercase = True, remove_spaces = True
+2025-09-05 19:13:15 | INFO | __main__:189 | OPTIONS: to_lowercase = True, remove_spaces = True
+2025-09-05 19:13:15.762 | INFO     | __main__:create_standardized_folders:189 - OPTIONS: to_lowercase = True, remove_spaces = True
+2025-09-05 19:13:15 | INFO | __main__:225 | 
+#####################################
+2025-09-05 19:13:15.762 | INFO     | __main__:main:225 - 
+#####################################
+2025-09-05 19:13:15 | INFO | __main__:226 | # Completed execution of main()
+2025-09-05 19:13:15.763 | INFO     | __main__:main:226 - # Completed execution of main()
+2025-09-05 19:13:15 | INFO | __main__:227 | #####################################
+2025-09-05 19:13:15.763 | INFO     | __main__:main:227 - #####################################
